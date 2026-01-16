@@ -1,16 +1,23 @@
-## Hi there 👋
+# Salut ! 👋
 
-<!--
-**bergeronfrederic-1600/bergeronfrederic-1600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un technicien en soutien informatique passionné par l'administration système, le matériel et l'automatisation. J'aime apprendre de nouvelles technologies et optimiser les infrastructures.
 
-Here are some ideas to get you started:
+## 🛠 Compétences Techniques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Administration Système & Réseau
+* **OS :** Windows Server, Windows 10/11, Linux (Ubuntu)
+* **Déploiement :** MDT, WDS, Sysprep
+* **Outils :** Active Directory, DHCP, DNS, Virtualisation (VMware/VirtualBox)
+
+### 💻 Développement & Scripting
+* **Scripting :** PowerShell, Bash
+* **Web :** HTML5, CSS3, PHP
+* **Bases de données :** MySQL, Access
+
+## 🚀 Ce que je fais en ce moment
+* 🌱 Je travaille sur mon **Portfolio Personnel** en PHP/MySQL.
+* 🔭 J'approfondis mes connaissances en **déploiement automatisé** (Windows Server).
+* ⚙️ Je monte des projets de laboratoires virtuels pour tester des configurations réseau.
+
+---
+⭐️ *N'hésite pas à explorer mes dépôts pour voir mes scripts et projets !*
