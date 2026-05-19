@@ -1,6 +1,6 @@
 # Salut ! 👋
 
-Je suis un technicien en soutien informatique passionné par l'administration système, le matériel et l'automatisation. J'aime apprendre de nouvelles technologies et optimiser les infrastructures.
+Je suis un technicien en soutien informatique passionné par l'administration système, le déploiment et l'automatisation. J'aime apprendre de nouvelles technologies et optimiser les infrastructures.
 
 ## 🛠 Compétences Techniques
 
