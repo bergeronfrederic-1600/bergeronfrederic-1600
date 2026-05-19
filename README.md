@@ -13,7 +13,7 @@ Je suis **technicien en soutien informatique**, passionné par l'administration 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 * **Déploiement & Automatisation :** MDT, WDS, Sysprep, Autopilot
-* **Gestion d'Infrastructure :** Active Directory, DNS, DHCP, GPO
+* **Gestion d'Infrastructure :** Active Directory, Intune, DNS, DHCP, GPO
 * **Virtualisation :** VMware Workstation, VirtualBox
 
 ### 💻 Scripting & Développement
