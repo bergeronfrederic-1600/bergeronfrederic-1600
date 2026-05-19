@@ -1,37 +1,49 @@
-# Salut ! 👋
+# Salut ! 🖥️
 
-Je suis un technicien en soutien informatique passionné par l'administration système, le déploiment et l'automatisation. J'aime apprendre de nouvelles technologies et optimiser les infrastructures.
-
-## 🛠 Compétences Techniques
-
-**Systèmes & Réseaux**
-<p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
-
-* **OS :** Windows Server, Windows 10/11, Linux (Ubuntu)
-* **Déploiement :** MDT, WDS, Sysprep
-* **Outils :** Active Directory, DHCP, DNS, Virtualisation (VMware/VirtualBox)
-
-**Scripting & Code**
-<p>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-* **Scripting :** PowerShell, Bash
-* **Web :** HTML5, CSS3, PHP
-* **Bases de données :** MySQL, Access
-
-## 🚀 Ce que je fais en ce moment
-* 🌱 Je travaille sur mon **Portfolio Personnel** en PHP/MySQL.
-* 🔭 J'approfondis mes connaissances en **déploiement automatisé** (Windows Server).
-* ⚙️ Je monte des projets de laboratoires virtuels pour tester des configurations réseau.
+Je suis **technicien en soutien informatique**, passionné par l'administration système, le déploiement automatisé et l'optimisation des infrastructures. Mon quotidien consiste à concevoir des environnements stables, sécurisés et à automatiser tout ce qui peut l'être pour gagner en efficacité.
 
 ---
-⭐️ *N'hésite pas à explorer mes dépôts pour voir mes scripts et projets !*
+
+## 🛠️ Compétences Techniques
+
+### 🌐 Systèmes & Réseaux
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-CC0000?style=flat-square&logo=microsoft&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+* **Déploiement & Automatisation :** MDT, WDS, Sysprep, Autopilot
+* **Gestion d'Infrastructure :** Active Directory, DNS, DHCP, GPO
+* **Virtualisation :** VMware Workstation, VirtualBox
+
+### 💻 Scripting & Développement
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+* **Automatisation :** Scripts de maintenance et d'optimisation système (PowerShell / Bash)
+* **Bases de données :** Conception et requêtes MySQL, Access
+
+---
+
+## 🚀 Projets & Objectifs Actuels
+
+* **Portfolio Personnel :** Développement d'une interface web dynamique en PHP / MySQL.
+* **Modernisation de Postes :** Approfondissement des architectures de déploiement et des configurations Windows Server.
+* **Laboratoires Virtuels :** Création d'environnements de test isolés pour simuler, auditer et sécuriser des configurations réseau.
+
+---
+
+## 📊 Activité GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bergeronfrederic-1600&show_icons=true&theme=tokyonight&count_private=true" alt="Stats GitHub de Frédéric" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bergeronfrederic-1600&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" height="180" />
+</p>
+
+---
+
+💡 *N'hésitez pas à explorer mes dépôts pour découvrir mes scripts d'automatisation et mes projets en cours !*
