@@ -39,9 +39,9 @@ Je suis **technicien en soutien informatique**, passionné par l'administration 
 
 ## 📊 Activité GitHub
 
-![Stats GitHub de Frédéric](https://github-readme-stats.vercel.app/api?username=bergeronfrederic-1600&show_icons=true&theme=tokyonight&count_private=true)
+![Stats GitHub de Frédéric](https://github-readme-stats-sigma-five.vercel.app/api?username=bergeronfrederic-1600&show_icons=true&theme=tokyonight&count_private=true&v=2026)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=bergeronfrederic-1600&layout=compact&theme=tokyonight)
+![Langages les plus utilisés](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bergeronfrederic-1600&layout=compact&theme=tokyonight&v=2026)
 
 ---
 
