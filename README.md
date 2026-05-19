@@ -14,7 +14,7 @@ Je suis **technicien en soutien informatique**, passionné par l'administration 
 
 * **Déploiement & Automatisation :** MDT, WDS, Sysprep, Autopilot
 * **Gestion d'Infrastructure :** Active Directory, Intune, DNS, DHCP, GPO
-* **Virtualisation :** VMware Workstation, VirtualBox
+* **Virtualisation :** VMware Workstation, Hyper-V, VirtualBox
 
 ### 💻 Scripting & Développement
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
